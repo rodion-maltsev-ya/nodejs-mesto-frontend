@@ -139,7 +139,7 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('http://api.rodionmaltsev.nomorepartiessbs.ru');
+  const api = new Api('https://api.rodionmaltsev.nomorepartiessbs.ru');
   
   export default api;
   
